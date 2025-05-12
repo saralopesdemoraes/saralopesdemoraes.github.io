@@ -10,11 +10,10 @@ redirect_from:
 
 
 
-I am a Postdoctoral Research Fellow in the Department of Preventive Medicine at University of São Paulo (USP), Brazil. I am a member of the [Climate Change and Urban Health in Latin America Project (SALURBAL-Climate) project (2023-2028)](https://drexel.edu/lac/salurbal/climate/) and the Drexel Climate Change and Urban Health Research Center (CCUH). My recent research focuses on urban climate and health in Latin America cities.
+I am a Postdoctoral Research Fellow and a member of the [Climate Change and Urban Health in Latin America Project (SALURBAL-Climate) project (2023-2028)](https://drexel.edu/lac/salurbal/climate/) and the Drexel Climate Change and Urban Health Research Center (CCUH). My recent research focuses on urban climate and health in Latin America cities.
 
 
 **Training:**    
-Postdoctoral Research Fellow →  University of São Paulo, 2023-  
 PhD, Geography →  University of São Paulo, 2018-2023  
 Master degree, Geography →  University of São Paulo, 2015-2018  
 Bachelor and Teaching degree in Geography → University of São Paulo, 2009-2015  
