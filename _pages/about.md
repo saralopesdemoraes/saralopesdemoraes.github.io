@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Postdoctoral Research Fellow and a member of the [Climate Change and Urban Health in Latin America Project (SALURBAL-Climate) project (2023-2028)](https://drexel.edu/lac/salurbal/climate/) and the Drexel Climate Change and Urban Health Research Center (CCUH). My recent research focuses on urban climate and health in Latin America cities.
+I am a Research Fellow and a member of the [Climate Change and Urban Health in Latin America Project (SALURBAL-Climate) project (2023-2028)](https://drexel.edu/lac/salurbal/climate/) and the Drexel Climate Change and Urban Health Research Center (CCUH). My recent research focuses on urban climate and health in Latin America cities.
 
 
 **Training:**    
